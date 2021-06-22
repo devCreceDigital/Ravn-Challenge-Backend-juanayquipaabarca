@@ -24,7 +24,7 @@ Simple API endpoint that optionally accepts an author’s name and returns a JSO
 | ORM_USERNAME              | [Your DB Username]                 |
 | ORM_PASSWORD              | [Your DB Password]                 |
 | ORM_PORT                  | 3306                               |
-| ORM_DATABASE              | postgres                           |
+| ORM_DATABASE              | mysql                              |
 | ORM_TEST_DATABASE         | test                               |
 | ORM_SCHEMA                | public                             |
 
